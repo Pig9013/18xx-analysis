@@ -1,3 +1,5 @@
+**中文** · [English](README.en.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [Русский](README.ru.md)
+
 # 18xx 对局数据分析 · 工作流与报告
 
 > 把几百局 [18xx.games](https://18xx.games/) 公开日志，做成**可发布、数字可追溯**的深度分析报告。
